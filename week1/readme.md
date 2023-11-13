@@ -1,11 +1,5 @@
-+++
-title = "1. Node.js"
-description = "Javascript와 Node.js에 대해 알아봅니다."
-icon = "article"
-date = "2023-09-05"
-lastmod = "2023-10-19"
-weight = 310
-+++
+# 1. Node.js
+
 
 스꾸딩에서 가장 많이 사용하는 언어는 JavaScript입니다. JavaScript는 웹 브라우저에서 동작하는 언어로 시작했지만, Node.js를 통해 서버에서도 동작할 수 있게 되었습니다. Node.js는 서버에서 JavaScript를 읽고 실행할 수 있게 해주는 런타임입니다.
 
