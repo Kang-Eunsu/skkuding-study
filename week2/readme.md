@@ -1,11 +1,4 @@
-+++
-title = "2. Express.js"
-description = "웹 프레임워크인 Express.js에 대해 알아봅니다."
-icon = "article"
-date = "2023-09-11"
-lastmod = "2023-10-05"
-weight = 320
-+++
+# 2. Express.js
 
 Express.js는 웹 서버를 만들기 위한 Node.js의 웹 프레임워크입니다. Node.js의 http 모듈로도 웹 서버를 만들 수 있지만, Express.js를 사용하면 더 쉽고 편리하게 만들 수 있습니다.
 

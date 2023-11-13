@@ -1,11 +1,4 @@
-+++
-title = "5. AWS: S3, IAM"
-description = "AWS의 S3와 IAM에 대해 알아봅니다."
-icon = "article"
-date = "2023-10-26"
-lastmod = "2023-10-26"
-weight = 350
-+++
+# 5. AWS: S3, IAM
 
 Amazon S3는 AWS에서 제공하는 파일 스토리지 서비스입니다. 작게는 HTML, CSS 같은 웹 사이트 정적 파일을 저장하고, 크게는 수십 테라바이트의 데이터를 저장할 수 있어요.
 
