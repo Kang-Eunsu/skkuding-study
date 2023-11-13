@@ -1,11 +1,4 @@
-+++
-title = "3. Docker"
-description = "컨테이너 기반 가상화 도구인 Docker에 대해 알아봅니다."
-icon = "article"
-date = "2023-09-11"
-lastmod = "2023-10-05"
-weight = 330
-+++
+# 3. Docker
 
 <!-- TODO: update `date` and `lastmod` -->
 

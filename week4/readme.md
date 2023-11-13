@@ -1,12 +1,4 @@
-+++
-title = "4. AWS: EC2, Network"
-description = "클라우드 서비스 AWS의 기본적인 내용과 EC2, 네트워크 서비스를 배워봅니다."
-icon = "article"
-date = "2023-09-11"
-lastmod = "2023-10-05"
-weight = 340
-+++
-
+# 4. AWS: EC2, Network
 <!-- TODO: update `date` and `lastmod` -->
 
 AWS(Amazon Web Services)는 클라우드 컴퓨팅 플랫폼으로, 현재 전세계에서 가장 많이 사용되고 있는 클라우드 서비스입니다. Microsoft Azure와 Google Cloud Platform과 함께 세계 3대 클라우드 서비스로 꼽히고 있어요. 이 중에서도 AWS는 가장 오래되었고, 가장 많은 사용자를 보유하고 있습니다. (TMI: FBI에서도 AWS를 사용한다고 해요!) 그래서 다른 서비스들도 AWS를 기준으로 지원하고 있고, AWS를 먼저 배우면 다른 클라우드 서비스도 배우기 쉬워요.

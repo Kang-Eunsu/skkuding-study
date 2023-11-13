@@ -1,11 +1,4 @@
-+++
-title = "6. AWS: ECS"
-description = "AWS의 컨테이너 관리 서비스인 ECS에 대해 알아봅니다."
-icon = "article"
-date = "2023-10-30"
-lastmod = "2023-10-30"
-weight = 360
-+++
+# 6. AWS: ECS
 
 Amazon ECS는 AWS에서 제공하는 컨테이너 관리 서비스입니다. 쿠버네티스와 비슷하지만, 조금 더 쉽게 사용할 수 있어요.
 

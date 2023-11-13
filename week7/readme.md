@@ -1,11 +1,4 @@
-+++
-title = "7. Terraform"
-description = "프로비저닝 도구인 Terraform에 대해 알아봅니다."
-icon = "article"
-date = "2023-09-11"
-lastmod = "2023-10-05"
-weight = 370
-+++
+# 7. Terraform
 
 Terraform은 HashiCorp에서 만든 인프라 프로비저닝 도구입니다. Terraform을 사용하면 코드로 인프라를 관리할 수 있어요. 이번 시간에는 IaC(Infrastructure as Code)를 구현할 수 있는 Terraform에 대해 알아보겠습니다.
 
