@@ -1,0 +1,21 @@
+version: "3"
+services:
+  node:
+    container_name: "node"
+    build:
+      # node directory를 root로 사용
+      context: ./node
+      # ./node/Dockerfile을 사용해서 build
+      dockerfile: Dockerfile
+    expose:
+      - "3000"
+
+  nginx:
+    container_name: "nginx"
+    build:
+      # nginx directory를 root로 사용
+      context: ./nginx
+      # ./nginx/Dockerfile을 사용해서 build
+      dockerfile: Dockerfile
+    ports:
+      - "8000:80"

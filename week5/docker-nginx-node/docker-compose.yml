@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  node:
+    container_name: "node"
+    build:
+      context: ./node
+      dockerfile: Dockerfile
+    # 또는 `image: <owner>/<image>:<tag>`
+    ports:
+      - "3000:3000"

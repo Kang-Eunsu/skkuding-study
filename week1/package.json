@@ -1,0 +1,18 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lab": "nodemon --watch lab.js"
+  },
+  "author": "Kang-Eunsu",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "nunjucks": "^3.2.4"
+  }
+}
